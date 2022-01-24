@@ -4,7 +4,7 @@ pipeline {
             stage('Init') {
                   steps {
                         echo 'Hi, this is Shanu from Sowmika'
-                        echo 'We are Starting the Testing'
+                        echo 'We are Starting the Love With New Life'
                   }
             }
             stage('Build') {
